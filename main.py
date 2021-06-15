@@ -15,7 +15,7 @@ def questionOption(question):
     if question1 == question:
         return ['Excellent','Good','Average','Poor']
     if question2 == question:
-        return ['Yes','Yes,but it doesn’t work well','No,I use others device']
+        return ['Yes','Yes, but it doesn’t work well','No, I use others device']
     if question3 == question:
         return ['Laptop','Desktop','Tablet','Smartphone']
     if question4 == question:
